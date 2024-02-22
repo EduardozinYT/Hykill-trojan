@@ -1,5 +1,5 @@
 Hykill é um malware muito destrutivo que pode fazer seu PC não ligar mais então não execute em uma maquina real.
- Para as pessoas que vão testar ele recomendo não fecharem o cmd para que o virus funcione corretamente e de enter no cmd
+ Para as pessoas que vão testar ele recomendo não fecharem o cmd para que o virus funcione corretamente e de enter no cmd e para um melhor funcionamento execute no windows Xp
 Criador:
 @Eduardozin_YT
 Link:
