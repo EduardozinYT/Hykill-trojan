@@ -1,5 +1,5 @@
 @echo off
-echo esse softoware é considerado um malware vc quer mesmo continuar
+echo esse softoware e considerado um malware vc quer mesmo continuar
 pause
 echo Aviso final vc quer mesmo fazer seu pc ficar inutilizavel
 pause
