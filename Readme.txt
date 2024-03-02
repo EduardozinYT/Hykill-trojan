@@ -9,8 +9,8 @@ O que o Hykill faz:
     Este malware é capaz de:
         Excluir arquivos e pastas importantes do sistema.
         Corromper o sistema operacional, tornando o computador inoperante.
-        Formatar o disco rígido, apagando todos os dados. OBS esse aviso não é tão certeiro mais vou colocar
-
+E excluir o Appdata apagando todos os seus dados como "Aplicativos" "Seus DOCUMENTOS IMPORTANTES e não importantes" "Cheche" "Salvamentos de
+jogos"
 Como usar o Hykill com segurança:
 
     Leia este README com atenção antes de executar o código.
